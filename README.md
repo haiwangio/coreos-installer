@@ -1,6 +1,6 @@
 # coreos-installer
 
-`coreos-installer` is a script to install Fedora or Red Hat CoreOS to
+`coreos-installer` is a script to install Fedora or Red Hat Enterprise Linux CoreOS to
 target disk. It can be invoked as a standalone script or during bootup
 via a dracut module.
 
